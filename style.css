@@ -1,0 +1,44 @@
+h2{
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(48, 48, 43);
+    -webkit-text-stroke: 1px white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-image: url(img/SM-BG.jpg);
+    background-size: cover;
+}
+
+table{
+    text-decoration-color: rgb(48, 48, 43);
+    //-webkit-text-stroke: 1px white;//
+    font-size: large;
+    border-width: 5px;
+    border-color: rgb(255, 134, 0);
+    background-color: rgb(255, 181, 0);
+    -webkit-text-fill-color: rgb(48, 48, 43);
+}
+
+h3{
+    color: rgb(48, 48, 43);
+    -webkit-text-stroke: 1px white;
+    font-size: xx-large;
+    stroke-color: white;
+}
+
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: rgb(48, 48, 43);
+    -webkit-text-stroke: 1px white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+caption{
+    font-size: xx-large;
+    -webkit-text-stroke: 1px white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
